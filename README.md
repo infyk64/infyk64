@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infyk64&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infyk64&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infyk64&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infyk64&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 </div>
